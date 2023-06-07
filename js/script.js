@@ -9,6 +9,7 @@ createApp({
     data(){
         return{
             // DEFINIZIONE VARIABILI DEL RETURN
+            message : "Benvenuto vue.js!"
         }
     }
 }).mount('#app'); // RICHIAMO IL CONTAINER HTML DOVE APPLICARE LA FUNZIONE CREATE_APP
