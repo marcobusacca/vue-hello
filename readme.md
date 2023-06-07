@@ -6,9 +6,9 @@ PROBLEMA: Stampare a Schermo un Messaggio all’Interno di un h1, utilizzando i 
 
 - Inserire dentro il Container html il tag h1;
 
-- Dichiarare in JavaScript la Constante contenente "createApp";
+- Dichiarare in JavaScript la Constante contenente la funzione "createApp";
 
-- Richiamare "createApp";
+- Richiamare la funzione "createApp";
 
 - Richiamare il Container html con "mount";
 

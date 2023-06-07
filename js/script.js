@@ -1,6 +1,14 @@
 "use strict";
 
-// CREATE APP VUE.JS
+// RICHIAMO FUNZIONE CREATE_APP VUE.JS E LA INSERISCO IN UNA CONSTANTE
 const {createApp} = Vue;
 
-createApp({}).mount('#app');
+// UTILIZZO FUNZIONE CREATE_APP
+createApp({
+    // DEFINIZIONE DATA CON L'OGGETTO RETURN
+    data(){
+        return{
+            // DEFINIZIONE VARIABILI DEL RETURN
+        }
+    }
+}).mount('#app'); // RICHIAMO IL CONTAINER HTML DOVE APPLICARE LA FUNZIONE CREATE_APP
