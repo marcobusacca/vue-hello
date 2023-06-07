@@ -1,4 +1,6 @@
-PROBLEMA: Stampare a Schermo un Messaggio all’Interno di un h1, utilizzando i Data di vue.js
+PROBLEMA: Stampare a Schermo un Messaggio all’Interno di un h1, utilizzando i Data di vue.js;
+
+BONUS: Aggiungere alla Pagina un’Immagine, presa anch’essa da un Data.
 
 - Collegare vue.js CDN al DOM html;
 
@@ -16,4 +18,10 @@ PROBLEMA: Stampare a Schermo un Messaggio all’Interno di un h1, utilizzando i 
 
 - Inserire dentro Return la Variabile contenente il Messaggio da Stampare a schermo;
 
-- Richiamare la Variabile contenente il Messaggio nel tag h1 del DOM.
+- Richiamare la Variabile contenente il Messaggio nel tag h1 del DOM;
+
+- Inserire dentro Return la Variabile contenente l'URL dell'Immagine da Stampare a schermo;
+
+- Inserire dentro il Container html il tag img con v-bind:src;
+
+- Richiamare la Variabile contenente l'URL dell'Immagine nel tag img del DOM.
