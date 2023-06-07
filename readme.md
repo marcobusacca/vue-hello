@@ -8,6 +8,8 @@ PROBLEMA: Stampare a Schermo un Messaggio all’Interno di un h1, utilizzando i 
 
 - Dichiarare in JavaScript la Constante contenente "createApp";
 
+- Richiamare "createApp";
+
 - Richiamare il Container html con "mount";
 
 - Inserire dentro createApp il Data con l'oggetto Return;
