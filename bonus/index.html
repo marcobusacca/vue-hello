@@ -18,7 +18,9 @@
         <!-- Container App vue.js -->
         <div id="app">
             <!-- Title -->
-            <h1>{{message}}</h1>
+            <h1 v-text="message"></h1>
+            <!-- Image -->
+            <img :src="imgUrl">
         </div>
     </body>
 </html>
